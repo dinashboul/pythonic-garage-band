@@ -17,3 +17,5 @@
 #### Tests
 #### How do you run tests?
  pytest -m  tests/test_band.py
+
+ PR link : https://github.com/dinashboul/pythonic-garage-band/pull/1
